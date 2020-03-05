@@ -1,0 +1,11 @@
+,id,genre_ids,original_title,title,release_date,popularity,vote_average,vote_count,budget,revenue,imdb_id,originalTitle,startYear,genres,averageRating,numVotes,Gross Profit
+10,475557,"['Crime', 'Drama', 'Thriller']",Joker,Joker,2019-10-02,98.649,82.0,9548,55000000.0,1073698955.0,tt7286456,Joker,2019.0,"Crime,Drama,Thriller",8.6,698168,1018698955.0
+3,496243,"['Comedy', 'Drama', 'Thriller']",기생충,Parasite,2019-05-30,148.987,86.0,4756,11363000.0,201055038.0,tt6751668,Gisaengchung,2019.0,"Comedy,Drama,Thriller",8.6,288268,189692038.0
+41,299534,"['Action', 'Adventure', 'Science Fiction']",Avengers: Endgame,Avengers: Endgame,2019-04-24,38.57,83.0,11389,356000000.0,2797800564.0,tt4154796,Avengers: Endgame,2019.0,"Action,Adventure,Drama",8.5,674091,2441800564.0
+11,299536,"['Action', 'Adventure', 'Science Fiction']",Avengers: Infinity War,Avengers: Infinity War,2018-04-25,84.76799999999999,83.0,16897,300000000.0,2046239637.0,tt4154756,Avengers: Infinity War,2018.0,"Action,Adventure,Sci-Fi",8.5,750111,1746239637.0
+1664,354912,"['Animation', 'Family', 'Comedy', 'Adventure', 'Fantasy']",Coco,Coco,2017-10-27,23.123,82.0,10352,175000000.0,800526015.0,tt2380307,Coco,2017.0,"Adventure,Animation,Family",8.4,322211,625526015.0
+2764,360814,"['Action', 'Drama']",दंगल,Dangal,2016-12-21,10.062999999999999,80.0,415,10400000.0,310000000.0,tt5074352,Dangal,2016.0,"Action,Biography,Drama",8.4,136219,299600000.0
+29,324857,"['Action', 'Adventure', 'Animation', 'Comedy', 'Science Fiction']",Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse,2018-12-06,44.86600000000001,84.0,6424,90000000.0,375450417.0,tt4633694,Spider-Man: Into the Spider-Verse,2018.0,"Action,Adventure,Animation",8.4,298350,285450417.0
+13,530915,"['Action', 'Drama', 'War']",1917,1917,2019-12-10,70.66,80.0,2963,100000000.0,200483309.0,tt8579674,1917,2019.0,"Drama,War",8.4,202702,100483309.0
+253,517814,['Drama'],کفرناحوم,Capernaum,2018-10-06,19.38,83.0,622,4000000.0,64978931.0,tt8267604,Capharnaüm,2018.0,Drama,8.4,38909,60978931.0
+697,534780,"['Crime', 'Thriller']",अंधाधुन,Andhadhun,2018-10-05,9.568,78.0,142,4500000.0,40000000.0,tt8108198,Andhadhun,2018.0,"Crime,Thriller",8.3,56121,35500000.0
